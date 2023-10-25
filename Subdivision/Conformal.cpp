@@ -13,7 +13,7 @@
 using namespace MeshLib;
 using namespace std;
 double t = 1e-5;
-double steplength = 1e-3;
+double steplength = 1e-2; // threshold
 
 int main(int argc, char *argv[])
 {
